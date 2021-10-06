@@ -32,7 +32,7 @@
 7. ### In brief, outline your approach to creating your project (knowing that you may not know everything in advance and that these details might change later). Answer questions like the ones below, but feel free to add more information:
    <ol>
    <li type="a">What does your database schema look like?</li>
-       - See "database_schema.png" (not created yet...). Will be highly role and time driven.
+       - See "database_schema.png" (shown below). Will be highly role and time driven.
    <li type="a">What kinds of issues might you run into with your API? This is especially important if you are creating your own API, web scraping produces notoriously messy data.</li>
         - Some tasks will be scheduled (e.g. weekly volunteer scheduling), which I have not had to implement before. That might become messy, but I don't expect there to be challenges in keeping the data valid within the schema I create
    <li type="a">Is there any sensitive information you need to secure?</li>
@@ -54,3 +54,5 @@
    <li type="a">What features make your site more than a CRUD app? What are your stretch goals?</li>
         - not sure it will be more than CRUD
    </ol>
+
+![Database Schema](./database_schema.png)
