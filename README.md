@@ -2,6 +2,8 @@
 
 ## the schema.
 
+- I will not be sourcing data. It will be user created. I will put some dummy data in there for demo purposes.
+
 ![Database Schema](./database_schema.png)
 
 1. ### What tech stack will you use for your final project? We recommend that you use React and Node for this project, however if you are extremely interested in becoming a Python developer you are welcome to use Python/Flask for this project.
