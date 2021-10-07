@@ -1,5 +1,9 @@
 # Capstone Two: Step Two - Write a Project Proposal
 
+## the schema.
+
+![Database Schema](./database_schema.png)
+
 1. ### What tech stack will you use for your final project? We recommend that you use React and Node for this project, however if you are extremely interested in becoming a Python developer you are welcome to use Python/Flask for this project.
    - express/node and react
 2. ### Is the front-end UI or the back-end going to be the focus of your project? Or are you going to make an evenly focused full-stack application?
@@ -54,5 +58,3 @@
    <li type="a">What features make your site more than a CRUD app? What are your stretch goals?</li>
         - not sure it will be more than CRUD
    </ol>
-
-![Database Schema](./database_schema.png)
