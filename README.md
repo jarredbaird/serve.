@@ -1,5 +1,10 @@
 # Capstone Two: Step Two - Write a Project Proposal
 
+## the repos.
+
+- https://github.com/jarredbaird/serve.the.front
+- https://github.com/jarredbaird/serve.the.back
+
 ## the schema.
 
 - I will not be sourcing data. It will be user created. I will put some dummy data in there for demo purposes.
