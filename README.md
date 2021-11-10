@@ -1,4 +1,19 @@
-# Capstone Two: Step Two - Write a Project Proposal
+# Capstone Two: serve.
+
+> an app created by Jarred Baird
+
+<a href="https://www.loom.com/share/1663f646374c44dfa1459b405da40ead">
+    <p>Serve App Developed by Jarred - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1663f646374c44dfa1459b405da40ead-with-play.gif">
+  </a>
+
+## link to the app
+
+- https://serve-each-other.surge.sh/signin
+
+## link to the api
+
+- https://serve-each-other.herokuapp.com/
 
 ## the repos.
 
@@ -7,7 +22,7 @@
 
 ## the schema.
 
-- I will not be sourcing data. It will be user created. I will put some dummy data in there for demo purposes.
+- I will not be sourcing data. It will be user created. I have put some dummy data in there for demo purposes.
 
 ![Database Schema](./database_schema.png)
 
